@@ -1,0 +1,91 @@
+@media (min-width: 0px) {
+  .section-13 {
+    margin-top: 170px;
+    .section-13__btn {
+      .section-13__text {
+        color: var(--Daminant, #2e3038);
+        font-family: "Inter", sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 52px; /* 130% */
+        text-transform: uppercase;
+      }
+      .section-13__img {
+        width: 100%;
+        margin: 30px 0px 30px 0px;
+      }
+      .section-13__info {
+        display: flex;
+        justify-content: space-between;
+        .section-13__content {
+          .section-13__text-2 {
+            color: #184afb;
+            font-family: "Inter", sans-serif;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px; /* 180% */
+            text-transform: uppercase;
+          }
+          .section-13__text-3 {
+            color: #333;
+            font-family: "Inter", sans-serif;
+            font-size: 10px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 28px; /* 175% */
+            text-transform: capitalize;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 900px) {
+    .section-13 {
+      margin-top: 170px;
+      .section-13__btn {
+        .section-13__text {
+          color: var(--Daminant, #2e3038);
+          font-family: "Inter", sans-serif;
+          font-size: 30px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: 52px; /* 130% */
+          text-transform: uppercase;
+        }
+        .section-13__img {
+          width: 900px;
+          margin: 60px 0px 32px 0px;
+        }
+        .section-13__info {
+          display: flex;
+          justify-content: space-between;
+          .section-13__content {
+            .section-13__text-2 {
+              color: #184afb;
+              font-family: "Inter", sans-serif;
+              font-size: 40px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: 32px; /* 180% */
+              text-transform: uppercase;
+              margin-bottom: 50px;
+            }
+            .section-13__text-3 {
+              color: #333;
+              font-family: "Inter", sans-serif;
+              font-size: 16px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: 28px; /* 175% */
+              text-transform: capitalize;
+            }
+          }
+        }
+      }
+    }
+  }
+  
